@@ -1,25 +1,24 @@
 <h1 align="center">Hi 👋, I'm Zain</h1>
 <h3 align="center">A Technophile and a Design Enthusiast , who is obsessed with the idea of improving himself and explore various things.</h3>
- <img align="centre" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="500" height="320" />
+ <img align="center" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="500" height="320" />
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zyn10" alt="zyn10" /></a> </p>
 
-- 🔭 I’m currently working on [crafting portfolios](zainahsan.com)
+- 🔭 I’m currently crafting [portfolio] (zainahsan.com)
 
-- 🌱 I’m currently learning **Design and Code**
+- 🌱 I’m love to learn **Design and Code**
 
 - 👯 I’m looking to collaborate on [generating leads](hazlsquare.com)
 
 - 🤝 I’m looking for freelance work in [design and web development](mailto:zainandcs@gmail.com)
 
-- 👨‍💻 All of my projects are available at [zainahsan.com](zainahsan.com)
+- 👨‍💻 All of my projects are available at my [website](zainahsan.com)
 
-- 📝 I regularly write articles on [https://medium.com/@zyn10](https://medium.com/@zyn10)
+- 📝 I regularly write articles on [medium](https://medium.com/@zyn10)
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **mailto:zainandcs@gmail.com**
+- 📫 Mail  **mailto:zainandcs@gmail.com**
 
 - 📄 Know about my experiences [zainahsan.com](zainahsan.com)
 
