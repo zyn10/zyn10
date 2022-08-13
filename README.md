@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zain</h1>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
-I am a 3rd Year Undergrad pursuing Bachelors in Technology in Computer Sciences. <br><br>
+I am pursuing Bachelors in Computer Sciences.<br>
 A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> and a **Design Enthusiast** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, who is obsessed with the idea of improving himself and explore various things.
 
 <br>
@@ -10,7 +10,7 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
 
 - 🔭 I’m currently crafting [portfolio](zainahsan.com)
 
-- 🌱 I’m love to learn **Design and Code**
+- 🌱 I love to learn **Design and Code**
 
 - 🤝 I’m looking for freelance work in [design and web development](mailto:zainandcs@gmail.com)
 
@@ -18,18 +18,12 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
 
 - 💬 Ask me about **anything**
 
-- 📫 Mail  **mailto:zainandcs@gmail.com**
+- 📫 Mail  [zainandcs@gmail.com](mailto:zainandcs@gmail.com)
 
-- 📄 Know about my experiences [zainahsan.com](zainahsan.com)
+- 📄 Know about my [experiences](zainahsan.com)
 
-- ⚡ I love to play outdoor games **like, cricket and football**
+- ⚡ I love to play games **like, cricket,fifa,football,futsal and snooker.**
 
-<h3 align="left">Social Dilemma:</h3>
-<p align="left">
-<a href="https://twitter.com/zyn___10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zyn___10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ux-ui-deisgner/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ux-ui-deisgner/" height="30" width="40" /></a>
-<a href="https://instagram.com/zyn___10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zyn___10" height="30" width="40" /></a>
-</p>
 
 <br>
 <h2 align="left">Programming Languages</h2>
