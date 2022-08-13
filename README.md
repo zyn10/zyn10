@@ -1,6 +1,6 @@
-### Hello World, I'm Anna  👋
+### Hello World, I'm Zain  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="[https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true](https://github.com/rudrabarad/Gifs)" width="500" height="320" />
 
 
 ## I'm a Computer Scientist and Visual Artist!!
