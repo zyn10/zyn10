@@ -92,8 +92,9 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zyn10&" alt="zyn10" /></p>
 <br><br>
 <h3 align="left">Support:</h3>
-<button>
+<button style="color:black";>
 <a href="https://www.buymeacoffee.com/buymeacoffee.com/zainahsan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/zainahsan" /></a></button>
+
  <a href="https://ko-fi.com/ko-fi.com/zainahsan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=2" height="50" width="210" alt="ko-fi.com/zainahsan" /></a></p><br><br>
 
 
