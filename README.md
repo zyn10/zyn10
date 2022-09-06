@@ -3,7 +3,6 @@
 
 I am pursuing Bachelors in Computer Sciences.<br>
 A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> and a **Design Enthusiast** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, who is obsessed with the idea of improving himself and explore various things.
-
 <br>
 
 - 📝 Checkout my [Resume]()
