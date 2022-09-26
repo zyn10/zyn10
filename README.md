@@ -50,10 +50,8 @@
 <h2 align="left">Devops</h2>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 <br>
-<h2 align="left">Pens</h2>
-
+<h2 align="left">CodePen</h2>
 <a href="https://codepen.io/https://codepen.io/zyn10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/zyn10" height="30" width="40" /></a>
-
 <br>
 <h2 align="left">Design Deilema </h2>
 <p><a href="https://dribbble.com/https://dribbble.com/zyn10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/zyn10" height="40" width="40" /></a>
