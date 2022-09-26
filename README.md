@@ -60,8 +60,8 @@
 
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zyn10&show_icons=true&locale=en" alt="zyn10" />
-<img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=zyn10&%22%20alt=%22zyn10%22" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zyn10&show_icons=true&locale=en" alt="zyn10" width="390" height="390"/>
+<img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=zyn10&%22%20alt=%22zyn10%22" width="390" height="390"/></p>
 
 <br><br>
 
