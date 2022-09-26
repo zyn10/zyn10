@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zain</h1>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
-
-I am pursuing Bachelors in Computer Sciences.<br>
-A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> and a **Design Enthusiast** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, who is obsessed with the idea of improving himself and explore various things.
+<h4>A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px"> and a **Design Enthusiast** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px">, who is obsessed with the idea of improving himself and explore various things.</h4>
 <br>
 
 - 📝 Checkout my [Resume]()
