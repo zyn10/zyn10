@@ -82,5 +82,17 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
 <h3 align="left">Support:</h3>
 <a href="https://www.buymeacoffee.com/buymeacoffee.com/zainahsan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/zainahsan" /></a></button>
  <a href="https://ko-fi.com/ko-fi.com/zainahsan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=2" height="50" width="210" alt="ko-fi.com/zainahsan" /></a></p>
+ 
+ 
+<details>
+<summary>:zap: GitHub Stats</summary>
+<img align="left" alt="Zain's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zyn10&show_icons=true&hide_border=true" />
+</details>
+
+<details>
+<summary>:zap: Most Used Languages</summary>
+<img align="left" alt="Zain's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyn10" />
+
+</details>
 
 
