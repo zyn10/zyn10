@@ -51,9 +51,8 @@
 <h2 align="left">Design Portfolio </h2>
 <p><a href="https://dribbble.com/https://dribbble.com/zyn10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/zyn10" height="40" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/zyn10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/zyn10" height="40" width="40" /></a>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zyn10&show_icons=true&locale=en" alt="zyn10" width="390" height="390"/>
-<img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=zyn10&%22%20alt=%22zyn10%22" width="390" height="390"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zyn10&show_icons=true&locale=en" alt="zyn10" width="420" height="390"/>
+<img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=zyn10&%22%20alt=%22zyn10%22" width="420" height="390"/></p>
 <br>
 <h3 align="left">Talk with me, I am kinda awesome::</h3>
 <p align="left">
