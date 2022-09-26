@@ -58,8 +58,8 @@
 <a href="https://instagram.com/zyn___10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zyn___10" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zyn10&show_icons=true&locale=en" alt="zyn10" width="420" height="390"/>
-<img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=zyn10&%22%20alt=%22zyn10%22" width="420" height="390"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zyn10&show_icons=true&locale=en" alt="zyn10" width="400" height="290"/>
+<img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=zyn10&%22%20alt=%22zyn10%22" width="400" height="290"/></p>
 
 [website]: https://zainahsan.com/
 [instagram]: https://www.instagram.com/zyn___10/
