@@ -5,7 +5,7 @@
 
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="Muhammad Zain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]: https://www.linkedin.com/in/ux-ui-deisgner/)
+[<img align="left" alt="Muhammad Zain | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -88,3 +88,6 @@
  <a href="https://ko-fi.com/ko-fi.com/zainahsan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=2" height="50" width="210" alt="ko-fi.com/zainahsan" /></a></p>
 
 
+[website]: https://zainahsan.com/
+[instagram]: https://www.instagram.com/zyn___10/
+[linkedin]: https://www.linkedin.com/in/ux-ui-deisgner/
