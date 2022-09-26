@@ -53,12 +53,11 @@
 <h2 align="left">CodePen</h2>
 <a href="https://codepen.io/https://codepen.io/zyn10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/zyn10" height="30" width="40" /></a>
 <br>
-<h2 align="left">Design Deilema </h2>
+<h2 align="left">Design Tools </h2>
+</a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+<h2 align="left">Design Portfolio </h2>
 <p><a href="https://dribbble.com/https://dribbble.com/zyn10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/zyn10" height="40" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/zyn10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/zyn10" height="40" width="40" /></a>
-</a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-
-<br>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zyn10&show_icons=true&locale=en" alt="zyn10" width="390" height="390"/>
 <img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=zyn10&%22%20alt=%22zyn10%22" width="390" height="390"/></p>
