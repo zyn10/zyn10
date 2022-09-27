@@ -3,14 +3,11 @@
 <p>A <b>Technophile</b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="40px"> and a <b>Design Enthusiast</b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="40px">, who is obsessed with the idea of improving himself and explore various things.
 <br>
 
-- 📝 Checkout my [Resume]()
-
 - 🔭 I’m currently crafting [portfolio](zainahsan.com)
 
 - 🌱 I love to learn **Design and Code**
 
-- 🤝 I’m looking for freelance work in [design and web development](mailto:zainandcs@gmail.com)
-
+- 🤝 I’m looking for freelance work in **design and development**
 
 - 📫 Mail  [zainandcs@gmail.com](mailto:zainandcs@gmail.com)
 
