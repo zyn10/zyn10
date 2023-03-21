@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for freelance work in **design and development**
 
-- 📫 Mail  [zainandcs@gmail.com](mailto:zainandcs@gmail.com)
+- 📫 Mail  [mail.zainahsan@gmail.com](mailto:mail.zainahsan@gmail.com)
 
 - ⚡ I love to play games **like, cricket,fifa,football,futsal and snooker.**
   
