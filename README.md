@@ -12,7 +12,7 @@
 
 - ⚡ I love to play games **like, cricket,fifa,football,futsal and snooker.**
   
-- 📸 In my freetime i capture moments with my cell phone camera . Stare @ [Unsplash](https://unsplash.com/@zyn__10)
+- 📸 In my freetime i capture moments with my cell phone. Stare @ [Unsplash](https://unsplash.com/@zyn__10)
 
 <br>
 <h2 align="left">Programming Languages</h2>
