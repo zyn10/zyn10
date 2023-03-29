@@ -2,7 +2,8 @@
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 <p>A <b>Technophile</b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="40px"> and a <b>Design Enthusiast</b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="40px">, who is obsessed with the idea of improving himself and bringing creative vision to cutting-edge technology.
 <br>
-- 🔭 I’m currently crafting [portfolio](zainahsan.com)
+<br>
+- 🔭 I’m currently crafting [Portfolio](www.zainahsan.com)
 
 - 🌱 I love to learn **Design and Code**
 
