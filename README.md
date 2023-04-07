@@ -2,6 +2,7 @@
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 <p>A <b>Computer Scientist </b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="40px"> and a <b>Design Enthusiast</b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="40px">, with deep affection and passion. Driven by the little details & passionate about bringing inclusiveness for enhanced user satisfaction.Believes in punctuality, honesty & the quality of work.
 <br>
+  <br>
 - 🔭 I’m currently crafting [Portfolio](www.zainahsan.com)
 
 - ⚡ I love to play games **like, cricket,fifa,football,futsal and snooker.**
