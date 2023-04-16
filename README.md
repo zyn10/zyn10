@@ -3,6 +3,7 @@
 <p>A <b>Computer Scientist </b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="40px"> and a <b>Design Enthusiast</b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="40px">, with deep affection and passion. Driven by the little details & passionate about bringing inclusiveness for enhanced user satisfaction. Believes in punctuality, honesty & the quality of work.
 <br>
 <br>
+  
 - 🔭 I’m currently crafting [Portfolio](www.zainahsan.com)
 - ⚡ I love to play **, Cricket, Football, Futsal, Snooker, Fifa, and Cod4 .**
 - 🌟 I share Design and User Experience [Here](https://www.instagram.com/zain___ahsan/)
@@ -18,7 +19,9 @@
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 <br>
 <h2 align="left">Design </h2>
-</a> <a href="[https://www.photoshop.com/en](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-vcnkr&psig=AOvVaw1wBCgTm30rjwHr4YX6OEgC&ust=1680912040661000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCXyLm7lv4CFQAAAAAdAAAAABAF)" target="_blank" rel="noreferrer"> <img src=["https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg](https://www.photoshop.com/en](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-vcnkr&psig=AOvVaw1wBCgTm30rjwHr4YX6OEgC&ust=1680912040661000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCXyLm7lv4CFQAAAAAdAAAAABAF)" alt="photoshop" width="40" height="40"/> </a> <a href="https://dribbble.com/https://dribbble.com/zyn10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/zyn10" height="40" width="40" /></a>
+<a href="[https://www.photoshop.com/en](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-vcnkr&psig=AOvVaw1wBCgTm30rjwHr4YX6OEgC&ust=1680912040661000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCXyLm7lv4CFQAAAAAdAAAAABAF)" target="_blank" rel="noreferrer"> <img src=["https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg](https://www.photoshop.com/en](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-vcnkr&psig=AOvVaw1wBCgTm30rjwHr4YX6OEgC&ust=1680912040661000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCXyLm7lv4CFQAAAAAdAAAAABAF)" alt="photoshop" width="40" height="40"/> </a>
+
+<a href="https://dribbble.com/https://dribbble.com/zyn10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/zyn10" height="40" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/zyn10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/zyn10" height="40" width="40" /></a><br>
 <h2 align="left">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/zainahsan/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/zainahsan/" /></a></p><br><br>
