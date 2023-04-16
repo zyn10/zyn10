@@ -21,8 +21,7 @@
 <h2 align="left">Design </h2>
 
 
-
-<a https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAdobe_Photoshop&psig=AOvVaw0LVHWW6YFSFQI6q6qhVL7j&ust=1681694759383000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCrz6yfrf4CFQAAAAAdAAAAABAE /></a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" /></a>
 <a href="https://dribbble.com/https://dribbble.com/zyn10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/zyn10" height="40" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/zyn10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/zyn10" height="40" width="40" /></a><br>
 <h2 align="left">Support:</h2>
