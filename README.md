@@ -19,11 +19,12 @@
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 <br>
 <h2 align="left">Design </h2>
-
-
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" /></a>
-<a href="https://dribbble.com/https://dribbble.com/zyn10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/zyn10" height="40" width="40" /></a>
+<a href="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="30" width="30" /></a><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" height="40" width="40" /></a><a href="https://dribbble.com/https://dribbble.com/zyn10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/zyn10" height="40" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/zyn10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/zyn10" height="40" width="40" /></a><br>
+
+
+
+
 <h2 align="left">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/zainahsan/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/zainahsan/" /></a></p><br><br>
 <h2 align="left">Stats:</h2><br>
