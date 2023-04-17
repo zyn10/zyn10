@@ -20,8 +20,8 @@
 <a href="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="35" width="35" /></a><a href="https://w7.pngwing.com/pngs/818/370/png-transparent-photoshop-2020-logo-icon-thumbnail.png" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" height="40" width="40" /></a> <a href="https://dribbble.com/https://dribbble.com/zyn10" target="blank"><img align="center" src="https://www.svgrepo.com/show/135853/dribbble.svg" alt="https://dribbble.com/zyn10" height="40" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/zyn10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/zyn10" height="40" width="40" /></a>
 <br>
-<h2 align="left">Support:</h2>
+<h2 align="left">Support</h2>
 <p><a href="https://www.buymeacoffee.com/zainahsan/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/zainahsan/" /></a></p><br><br>
-<h2 align="left">Stats:</h2><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zyn10&show_icons=true&locale=en" alt="zyn10" width="400" height="190"/>
+<h2 align="left">Stats</h2><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zyn10&show_icons=true&locale=en" alt="zyn10" width="400" height="155"/>
 <img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=zyn10&%22%20alt=%22zyn10%22" width="400" height="200"/></p>
