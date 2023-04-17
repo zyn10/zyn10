@@ -23,5 +23,5 @@
 <h2 align="left">Support</h2>
 <p><a href="https://www.buymeacoffee.com/zainahsan/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/zainahsan/" /></a></p><br><br>
 <h2 align="left">Stats</h2><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zyn10&show_icons=true&locale=en" alt="zyn10" width="400" height="155"/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zyn10&show_icons=true&locale=en" alt="zyn10" width="400" height="157"/>
 <img align="center" src= "https://github-readme-streak-stats.herokuapp.com/?user=zyn10&%22%20alt=%22zyn10%22" width="400" height="200"/></p>
