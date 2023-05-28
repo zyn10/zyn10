@@ -4,7 +4,7 @@
 <br>
 <br>
   
-- 🔭 I’m currently crafting [Portfolio](www.zainahsan.com)
+- 🔭 I’m currently crafting [Portfolio](https://zainahsan.com/)
 - ⚡ I love to play **, Cricket, Football, Futsal, Snooker, Fifa, and Cod4 .**
 - 🌟 I share Design and User Experience [Here](https://www.instagram.com/zain___ahsan/)
 - 📸 In my freetime i capture moments with my cell phone.Stare @ [ZAINLENSE](https://www.instagram.com/zainlense/)
