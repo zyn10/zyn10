@@ -3,6 +3,7 @@
 <p>A <b>Computer Scientist </b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="40px"> and a <b>Design Enthusiast</b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="40px">, with deep affection and passion. Driven by the little details & passionate about bringing inclusiveness for enhanced user satisfaction. Believes in punctuality, honesty & the quality of work.
 <br>
 <br>
+
   
 - 🔭 I’m currently crafting [Portfolio](https://zainahsan.com/)
 - 🌟 I share Design and User Experience [Here](https://www.instagram.com/zain___ahsan/)
