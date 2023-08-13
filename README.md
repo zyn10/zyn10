@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zain </h1>
 <!-- <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" /> -->
-<p>A <b>Software Engineer by profession </b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="42px"> and  a<b> Designer by heart</b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="40px">, with deep affection and passion.Driven by the little details & passionate about bringing inclusivenes for enhanced user satisfaction.I believes in punctuality, honesty & the quality of work.
+<p><b>Software Engineer by profession </b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="42px"> and  a<b> Designer by heart</b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="40px">, with deep affection and passion.Driven by the little details & passionate about bringing inclusivenes for enhanced user satisfaction.I believes in punctuality, honesty & the quality of work.
 <br>
 <br>
 
