@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zain </h1>
 <!-- <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" /> -->
-<p>I am Computer Science Grad.<b>App developer by profession</b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="42px"> & <b> Designer by heart</b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="40px">, with deep affection and passion for little details. Driven by the little details & passionate about bringing inclusiveness for enhanced user satisfaction. I believe in punctuality, honesty & the quality of work.
+<p>A<b> Computer Science Grad</b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="42px"> & <b> Designer by heart</b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="40px">, Driven by the little details and passionate about bringing inclusiveness for enhanced user satisfaction. Being a designer at heart and a coder by profession,  I believe in creating digital experiences that are both visually captivating and functionally seamless. With a passion for design and coding expertise, I combine the perfect blend of aesthetics and functionality to deliver exceptional results. I believe in punctuality, honesty & the quality of work.
 <br>
 <br>
 
   
-- 🔭 I’m currently crafting [Portfolio](https://zainahsan.com/)
+- 🔭 I’m currently developing the hybrid mobile app.
 - 🌟 I share Design and User Experience [Here](https://www.instagram.com/zain___ahsan/)
-- 📸 In my free time I capture moments with my cell phone.Stare @ [ZAINLENSE](https://www.instagram.com/zainlense/)
+- 📸 In my free time I capture moments with my cell phone.Stare @ [ZAINLENSE](https://www.instagram.com/zainlense/) or [Unsplash](https://unsplash.com/@zyn__10/)
 <br>
   
 <h2 align="left">Code</h2>
