@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zain </h1>
 <!-- <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" /> -->
-<p><b>Computer Science Grad</b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="42px"> & <b> Designer by heart</b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="40px">, passionate about bringing inclusiveness for enhanced user satisfaction.<br>I believe in punctuality, honesty & the quality of work.
+<p><b>Computer Science Grad</b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="42px"> & <b> Designer by heart</b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="40px">, passionate about bringing inclusiveness for enhanced user satisfaction, believes in punctuality, honesty & the quality of work.
 <br>
 <br>
-
   
-- 🔭 I’m currently developing the hybrid mobile app.
+- 🔭 I’m currently developing cross-platform mobile apps.
 - 🌟 I share Design and User Experience [Here](https://www.instagram.com/zain___ahsan/)
 - 📸 In my free time I capture moments with my cell phone.Stare @ [ZAINLENSE](https://www.instagram.com/zainlense/) or [Unsplash](https://unsplash.com/@zyn__10/)
 <br>
