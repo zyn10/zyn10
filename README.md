@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zain </h1>
 <!-- <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" /> -->
-<p>A<b>Computer Scientist </b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="42px"> and <b> Designer by heart</b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="40px">, passionate about bringing inclusiveness for enhanced user satisfaction.
+<p>A<b> Computer Scientist </b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="42px"> and <b> Designer by heart</b> <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="40px">, passionate about bringing inclusiveness for enhanced user satisfaction.
 <br>
 <br>
   
