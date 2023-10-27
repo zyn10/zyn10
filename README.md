@@ -5,7 +5,7 @@
 <br>
   
 - 🔭 I’m currently developing cross-platform mobile apps.
-- 🌟 I share Design and User Experience [Here](https://www.instagram.com/zain___ahsan/)
+- 🌟 I share **Design and User Experience** [Here](https://www.instagram.com/zain___ahsan/)
 - 📸 In my free time I capture moments with my cell phone.Stare @ [ZAINLENSE](https://www.instagram.com/zainlense/) or [Unsplash](https://unsplash.com/@zyn__10/)
 <br>
   
